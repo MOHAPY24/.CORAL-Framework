@@ -101,12 +101,9 @@ When building your own language with .CORAL:
 
 ## 📜 License
 
-Licensed under the **MIT License** — free to use, modify, and expand.
-Just keep the license intact when redistributing.
+Licensed under the **GPL 3.0 License** — free to use, modify, and expand.
+Just keep the license intact when redistributing and do not close source.
 
 ---
 
 🔥 **.CORAL isn’t just a language — it’s a framework for building languages.**
-
-
-Would you like me to also design a **second ASCII art** (more futuristic / cyber-grid style) so you can choose between them for the header?
