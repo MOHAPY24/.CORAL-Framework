@@ -59,7 +59,7 @@ legalfes = [".nec", ".nemoc"]
 
 ```bash
 # Compile/interpret a program
-python3 coral_compiler.py my_program.nec
+python3 coralfr.py my_program.nec
 
 # Output written to:
 my_program.json
