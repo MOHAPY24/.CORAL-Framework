@@ -6,7 +6,7 @@
 # Values, Program structure and such over to the main runtime/language (for interop communication) but execution is handled by this so called "interperter" itself, not the JSON. In other words,
 # .CORAL uses compilation into a serialized IR plus interperted execution.
 # This version/file of .CORAL is the public share template for the .CORAL language framework (edit this with the name of your language)
-# If your creating a language with the framework, edit everything at your will and follow the rules of the MIT License in the LICENSE file.
+# If your creating a language with the framework, edit everything at your will and follow the rules of the GPL 3.0 License in the LICENSE file.
 # .CORAL Version 0.0.1
 
 
